@@ -20,7 +20,7 @@ Reproduzir um projeto de referência disponível no GitHub, aplicando os pilares
 
 ## 🛠 Requisitos Técnicos
 - ⚡ Conhecimentos básicos em **Java e POO**  
-- 🖥 **IDE Java** configurada (Eclipse, IntelliJ, etc.)  
+- 🖥 **IDE Java** configurada (Eclipse)  
 - 🌐 **Acesso à internet** para clonar o projeto do GitHub  
 - 🗂 Familiaridade com **Git** (opcional, mas recomendado)  
 - 🧠 Capacidade de **abstração** para reproduzir e evoluir a solução proposta  
